@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-bhpdmn/static/css/main.55059e61.css",
+    "main.js": "https://.github.io/csb-bhpdmn/static/js/main.73042aac.js",
+    "index.html": "https://.github.io/csb-bhpdmn/index.html",
+    "main.55059e61.css.map": "https://.github.io/csb-bhpdmn/static/css/main.55059e61.css.map",
+    "main.73042aac.js.map": "https://.github.io/csb-bhpdmn/static/js/main.73042aac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55059e61.css",
+    "static/js/main.73042aac.js"
+  ]
+}
